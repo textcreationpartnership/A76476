@@ -1,0 +1,715 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiritual discoveries to the overthrow of popery root and branch. Shewing that I. The steeplehouse is no church ... / By a waiter in Israel, and one of the New Covenanters ...</title>
+            <author>Bettris, Jeane.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76476</idno>
+            <idno type="STC">Wing B2086</idno>
+            <idno type="STC">ESTC R170518</idno>
+            <idno type="EEBO-CITATION">45789156</idno>
+            <idno type="OCLC">ocm 45789156</idno>
+            <idno type="VID">172468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172468)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2632:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Spiritual discoveries to the overthrow of popery root and branch. Shewing that I. The steeplehouse is no church ... / By a waiter in Israel, and one of the New Covenanters ...</title>
+                  <author>Bettris, Jeane.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed the second time, 1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Jeane Bettris by Wing.</note>
+                  <note>Imperfect: tight binding with some loss of print.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172468:1" rendition="simple:additions"/>
+            <p> 
+               <hi>SPIRITUAL DISCOVERIES TO THE Overthrow of POPERY Root and Branch.</hi>
+            </p>
+            <p>Shewing that</p>
+            <p>
+               <list>
+                  <item>
+                     <hi>I.</hi> The Steeplehouſe is no Church.</item>
+                  <item>
+                     <hi>II.</hi> Hireling teachers no Goſpel-Miniſters.</item>
+                  <item>
+                     <hi>III.</hi> Tythes are againſt the Goſpel-practice.</item>
+                  <item>
+                     <hi>IIII.</hi> Paaiſhes are no Saint-like churches.</item>
+                  <item>
+                     <hi>V.</hi> Infant-Baptiſm is Popery, Rebellion and Blaſphemy.</item>
+                  <item>
+                     <hi>VI.</hi> No ſalvation without perſection here.</item>
+                  <item>
+                     <hi>VII.</hi> A ſorcing power makes no Chriſtians.</item>
+                  <item>
+                     <hi>VIII</hi> The Epiſtles were to Gathered churches.</item>
+                  <item>
+                     <hi>IX</hi> Univerſity-degrees no Goſpel-work.</item>
+                  <item>
+                     <hi>X</hi> VVho hath no revelation is no true Miniſter.</item>
+                  <item>
+                     <hi>XI</hi> The light within muſt enlighten us</item>
+                  <item>
+                     <hi>XII</hi> A ſum of new Diſcoveries broken ſorth.</item>
+               </list>
+            </p>
+            <p>
+               <hi>By a Waiter in Iſrael, and one of the New Co<g ref="char:EOLhyphen"/>venanters.</hi> Heb. 8. 8.</p>
+            <q>
+               <bibl>
+                  <hi>John</hi> 4. 22:</bibl>
+               <p>Ye worſhip ye know not what.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Acts</hi> 17: 23:</bibl>
+               <p>For as <hi>I</hi> paſſed by and beheld your devo<g ref="char:EOLhyphen"/>tion—whom therefore you ignorantly worſhip, him declare <hi>I</hi> unto you.</p>
+            </q>
+            <p>London, <hi>Printed the ſecond time,</hi> 1657:</p>
+            <pb facs="tcp:172468:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172468:2"/>
+            <head>To the Reade<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>HAving preached in five Steeple-hou<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, in London, and thirty in the Countrey, and I a Hirling Prieſt, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the wages of my hearers that I could get; but God in time was pleaſed to ſhew what I did, and whom held forth the VVord unto; ſo ſearching ſpiritually, <hi>I</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not four in a Pariſh (of the National way) that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ked like Chriſtians, but as Infidels; yet I had daub'd <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up with untempered morter a while for my own diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>est gain. <note place="margin">Ezek. 22. 27. 28.</note>
+            </p>
+            <p>I then left ſelling my Sermons, ſeeking out, and ſo found <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Independants outſtrip us; the Baptiſts beyond them; <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>yſterians very high; but the Quakers Doctrine moſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the light: So the Lord convincing me, and caſting <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the unclean ſpirit, (that Legion of Sins) called mee <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in this ſpiritual Diſcovery, to publiſh (as in Deca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>) what he had done for me. <note place="margin">Mrak. 5. 9. 20.</note>
+            </p>
+            <p>I have printed before 500. and now 500. more, let <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that love the truth be at charge (by a copy) to print <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>00. or more of the ſame, that they may go into all parts <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> England, and ſo people may have warning, and bee <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout excuſe in Gods day.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="part">
+               <pb facs="tcp:172468:3"/>
+               <head>I. <hi>Th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eeple-houſe is no Church.</hi>
+               </head>
+               <p>BEfore Chriſt came in the fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh, the material tem<g ref="char:EOLhyphen"/>ple was called an holy place, but now an inward ſpiritual Worſhip is required; for God dwells not in <note place="margin">
+                     <hi>John</hi> 4. 21, 24</note> Temples made with hands, ſuch are dead things which can do no living actions; for although man by art of ſundry materials can frame a pleaſant buil<g ref="char:EOLhyphen"/>ding, yet he can put no life into it, not can he prieſt put holineſs in it, only a Popiſh deluſion hath decei<g ref="char:EOLhyphen"/>ved the people, calling that a church which is but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great houſe.</p>
+               <p>The Church is a people, and ſo a true Church are a people ſanctified, and me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the work of God, be<g ref="char:EOLhyphen"/>ing a company of Believers, which Church<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in God; ſo it was not a ſteeplehouſe but a ſanctified <note place="margin">1 <hi>Theſ.</hi> 1. 1</note> company that communicated with Paul, but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtee<g ref="char:EOLhyphen"/>plehouſes they are as dumb Idol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Pſa. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. 4 8. and <note place="margin">1 <hi>Cor.</hi> 14. 23</note> who calls them a Church tells a lye, which untruths have been taught and maintained by the Romiſh Prieſts, that like Baals prop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deceive the people<g ref="char:punc">▪</g> but ſeeing theſe houſes are built, let them ſtill be re<g ref="char:EOLhyphen"/>paired, <note place="margin">
+                     <hi>Jer:</hi> 2: 8.</note> for I hope ſhortly better uſe will be made of them.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>That Pariſh-hireling Teachers are no true Goſ<g ref="char:EOLhyphen"/>pel-Miniſters.</hi>
+               </head>
+               <p>THey have pretended this a cure of ſoules, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> made it a trade to preach for hire, and divine <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> money, preparing war (or law) againſt ſuch as put <note place="margin">
+                     <hi>Mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 3. 4.</note> not into their mouths, and ſo no longer pay, no lon<g ref="char:EOLhyphen"/>ger preach, but ſhift from one pariſh to another lik<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Kine of Baſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n for better paſture; yea, to force <note place="margin">
+                     <hi>Amos</hi> 4. 1.</note>
+                  <pb n="5" facs="tcp:172468:3"/> themſelves as T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>achers into Parishes without their hearers conſent, and then force a maintenance from h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, like Elic's ſons, 1 Sam 2 16. having been upheld by a civil power of Government, which was as the B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt to carry this falſe Prophet or Miniſtry, yet toſſing the common people into ſuch a form as as this Roman Clergie cryed up.</p>
+               <p>They owned no Teache<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, but ſuch as ſubmitted to their human inventions, calling them Divine In-Inſtitutions, but it any was led forth from this Anti<g ref="char:EOLhyphen"/>chriſtian Church, they were aſperſed with Schiſma<g ref="char:EOLhyphen"/>tick, Heretick, Anabaptiſts, &amp;c. that none might go faher in holineſs then this Clergie; but if this falſe Miniſtry ſhifted round through Popery, Prela<g ref="char:EOLhyphen"/>cy, Presbery, Dependency, &amp;c. then thoſe that ſhifted not with them were accounted bad alſo.</p>
+               <p>This Clergie ſought much after the fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teſt Li<g ref="char:EOLhyphen"/>vings, deſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ule all, and to teach all, not underſtanding how a Church of Saints may all pro<g ref="char:EOLhyphen"/>pheſieſie one by one, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deſiring to keep all teaching to themſelves; they ſold the Letter by the Sermon, or <note place="margin">1 <hi>Cor.</hi> 14 31.</note> Sabbath, or by the yeer, or for life; and ſo they traded with this de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d letter, as if thereby they could raiſe living ſouls to God.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>Of Tythes.</hi>
+               </head>
+               <p>THe Tiyh-mongers leaving their pretended plea of rght thereunto from the Levitical Prieſt<g ref="char:EOLhyphen"/>hood, claim them as a Nation all gift from the Sax<g ref="char:EOLhyphen"/>ons time given Anno 855. to be (as they fay) unto a Clergie till Dooms-day.</p>
+               <p>Anſwer. But the Saxons which gave them were
+<pb n="6" facs="tcp:172468:4"/> caſt forth of their poſſeſſion and government by the Danes, and Normans, whereby their gift of Tythes, and all other Saxon Lawes ended alſo; for as the Saxon Proprietors were rooted up, ſo likewiſe was their Laws and Acts, and their gift of Tythes then ended; but then that covetous Romiſh Clergy did ſo overſway the ignorant people, that Tythes did continue to that Antichriſtian Miniſtry by way of cur<g ref="char:EOLhyphen"/>teſie; and he that now claſms Tythes his due for preaching, muſt run to Popery for proving it.</p>
+               <p>If any ſay that Tythes were confirmed to that Clergie ſince it was refined, let them ſee the Statute, <note n="†" place="margin">
+                     <hi>Ed.</hi> 2. <hi>ch.</hi> 6. 13. <hi>See the abridg. pag.</hi> 479, 480.</note> how they were only to be ſued for in Eccleſiaſticall Courts, which Courts and Biſhops are put down, and ſo are Tythes by the ſame order, if all things were well underſtood.</p>
+               <p>Tythes or money by bargain and ſale for preach<g ref="char:EOLhyphen"/>ing, was never uſed in Churches of Saints, yet they maintained their Teachers by imparting carnall things unto them, from whom they received ſpiritu<g ref="char:EOLhyphen"/>al <note place="margin">
+                     <hi>Phil</hi> 4. 15. <hi>&amp;c, Rom.</hi> 15. 27. <hi>Gal.</hi> 6. 6.</note> things; which maintenance was not forced by a Law without, but by a free contribution from a Law<g ref="char:EOLhyphen"/>of love within; which communicating of gifts ſpi<g ref="char:EOLhyphen"/>ritual and carnal, was only betwixt Saints, both ſpea<g ref="char:EOLhyphen"/>kers and hearers, yea the Apoſtle took wages, as to live of the Goſpel, yet all this was from Churches <note place="margin">1 <hi>Cor.</hi> 9. 14. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Cor.</hi> 11. 8.</note> of Saints, and not from ſuch ranting Beaſts as the hireling Prieſts take wages of, and are in fellowſhip with.</p>
+               <p>The National Congregations are made up of a rabble rout, of all kinde of ſinners, that if a man be truly awake from ſin, he will be aſhamed of Church fellowſhip with ſuch, but for a Prieſt to be the head of them, can be no true Miniſter, but one of Baby<g ref="char:EOLhyphen"/>lons
+<pb n="7" facs="tcp:172468:4"/> merchants, who come in as Robbers, climbing <note place="margin">
+                     <hi>Iohn.</hi> 10. 12. 2 <hi>Tim.</hi> 3. 6</note> the preferment-way, or elſe as diſſemblers, creeping into Steeple-houſes, the inſinuating way, and ſo de<g ref="char:EOLhyphen"/>ceive the effeminate, and beeing in fellowſhip toge<g ref="char:EOLhyphen"/>ther, there is like people, like Prieſts; and be ſure all you that read, ſo long as maintenance is forced for to <note place="margin">
+                     <hi>Hoſea</hi> 4. 9</note> pay teachers, ſo long England ſhall never be with<g ref="char:EOLhyphen"/>out a falſe Miniſtry; carnal men love ſuch trades beſt where they can command their wages.</p>
+               <p>Goſpel-Teachers firſt begat a people in Chriſt to the faith, or gathered a flock, and then had mainte<g ref="char:EOLhyphen"/>nance from them, eating of the milk; yet rather then Paul would be burdenſome he did not uſe this power, he ſought not the fleece, but the peoples welfare, not <note place="margin">2 <hi>Cor.</hi> 11. 9. 2 <hi>Cor.</hi> 12. 12. <hi>Phil.</hi> 4. 17.</note> ſeeking a gift, as the Romiſh Prieſts do, but laying down this power of taking maintenance, that ſo this Goſpel-work ſhould not be hindred, 1 <hi>Cor.</hi> 9. 12. 15. 16.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IIII. <hi>That Pariſh-Congregations are no Saint-like Churches.</hi>
+               </head>
+               <p>GOſpel churches were of Believers, who did com<g ref="char:EOLhyphen"/>municate together as Brethren, not as Beaſts, <note place="margin">
+                     <hi>Act.</hi> 1 r. 2. 9 2 <hi>Theſſ.</hi> 4. 9 10. 1 <hi>Tim.</hi> 5. 16.</note> pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing one another, or ravening one from another, as Parish-congregations do; but they were gathered out of the world to follow Chriſt Jeſus, being made ſons and daughters, 2 <hi>Cor.</hi> 6. 27. ſo the Saints do all by love, both in diſtributing to thoſe in want, and in contributing unto ſuch as are their Teachers; but what is done in the Pariſh-congregations, they do it by a chain of Law to compel them, who refuſe as Beaſts to do good untill they are forced thereunto. VVhere els will you look for Ranters, Smearers, I do<g ref="char:EOLhyphen"/>laters, Murderers, Drunkards, Lyars, Sorcerers,
+<pb n="8" facs="tcp:172468:5"/> Whoremongers, proud people, diſobedient to Parents, ſelfe<g ref="char:punc">▪</g> lovers, Envious perſons, Taritors, Covetous, Fomaliſts, Sabbath-breakers, Hypocrits, &amp;c. but in in this Societie, who uſe alſo the counterfit ordinan<g ref="char:EOLhyphen"/>ces in ſprinkling Infants: a pretending to receive the Lords Supper, and a trading with the dead letter, ſaying it is the word of God, which is but a declara<g ref="char:EOLhyphen"/>tion of it.</p>
+               <p>By that time ſuch beaſt-like perſons, are ſifted out for deſtruction, who ſhall not inherit the kingdom of God; few will be left for the true church, hav<g ref="char:EOLhyphen"/>ing <note place="margin">
+                     <hi>Amos</hi> 9. 9.</note> right to Goſpel promiſes: yet I Judge them not, <note place="margin">1 <hi>Cor.</hi> 6. 9, 10.</note> but ſee them by their fruits, who ſhew themſelves what they are; although ſome of them more cuningly deck their profeſſion ſo formally, yet it is but imitati<g ref="char:EOLhyphen"/>on by an outſide profeſſion, as the Strumpett with her offerings, neither dare theſe perſons own one a<g ref="char:EOLhyphen"/>nother; <note place="margin">
+                     <hi>Pro.</hi> 7. 14.</note> yet their Teachers ſeeing all this: flatter them in it; ſaying, hold faſt your profeſſion: Bee ſtedfaſt: Be not weary of well-doing &amp;c. as if they ſhould ſay, you Drunkards, Swearers, lyers &amp;c. hold faſt what you are hearing and paying me my Tythes, not following Separatiſts, Anabaptiſts, Dependents or Quakers leaſt thereby you become Chriſtians indeed, and ſo leave me to my ſelfe.</p>
+               <p>Thus the ſtreams of this fourth Romiſh Monarchy ſtil run, changing the name from Popery, Prelacy, Preſbytery &amp;c. but holding the nature; aſſuming the names of Chriſtians and yet hateing of pure Chriſt<g ref="char:EOLhyphen"/>ians, and they are a people deceiving, yet are decei<g ref="char:EOLhyphen"/>ved. and all though ſome good * Miniſters in the ſeve<g ref="char:EOLhyphen"/>rall <note place="margin">As Preſton <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erkins, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd others</note> ages have been amongſt them,; and doubtleſſe many good people that were hearers, yet what is one amongſt a hundred, to make a true church; which
+<pb n="9" facs="tcp:172468:5"/> could not be, no more then one <hi>Judas</hi> amongſt the Twelve, could make that a falſe church; and it is a<g ref="char:EOLhyphen"/>rare thing to find two in a Parriſh, Chriſtians indeed yet following of the common nationall hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eling teach<g ref="char:EOLhyphen"/>er; nor is it the goodneſſe of few<g ref="char:punc">▪</g> that will warrant the Popiſh ſtanding of falſe churches; but it was Gods goodneſſe to wink at the ignorance of <note place="margin">
+                     <hi>Act.</hi> 17. 3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> times.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V <hi>That Infrnt Baptiſm is Popery, Rebelion and Blaſphemy.</hi>
+               </head>
+               <p>GOd choſe the Jews, giving them circumciſion and made the promiſe to them and to their ſeed. Acts. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 39. which extended unto as many as the Lord ſhoud call, that is to the Gentiles; but the Romiſh church would cut of that everlaſting Covenant from the Jews. Gen. 17. 7. and thruſt it upon the Gentile-In<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ants in<g ref="char:EOLhyphen"/>ſteed thereof; whereas circumciſion holds ſtill to the Jews; as <hi>Timothie</hi> who was a Diſciple, yet being half <note place="margin">
+                     <hi>Act.</hi> 16. 1. 3 <hi>Act.</hi> 27. 2i 24.</note> Jewiſh was circumciſed, and <hi>Paul</hi> cleard himſelfe nor to appoſe circumciſion.</p>
+               <p>Infant Baptiſm is Popery, in that one perſon un<g ref="char:EOLhyphen"/>dertakes to believe, confeſſe, repent, and engage to to God for another; and if ſureties for children do not thus, then they lye and diſemble, for all know the child perceives nothing of it, no more then if a Lamb or bird ſhould be brought, and bid the Prieſt ſprin<g ref="char:EOLhyphen"/>kle and name it: ſo here the Prieſts do as the Papiſts who pretend to have merits, faith, and repen<g ref="char:EOLhyphen"/>tance for themſelves, and for ſuch children.</p>
+               <p n="2">2. It is rebellion to Baptiſe before teaching, whereas our Saviour hath commanded to teach and <note place="margin">
+                     <hi>Mat.</hi> 28. 19</note> Baptiſe; firſt teach them what to do, and then Bap<g ref="char:EOLhyphen"/>tiſe them into what they know; for if no actuall faith
+<pb facs="tcp:172468:6"/>
+                  <pb n="8" facs="tcp:172468:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:172468:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:172468:8"/> nor no knowledge of God; what Baptiſm can be of ſuch a perſon; no more then of a peice of wood. Thoſe at <hi>Epheſus</hi> being ignorant of the Holy Ghoſt, were re-Baptiſed, yet they knew much more then babes: and to Baptiſe a child into Chriſt, which never heard <note place="margin">
+                     <hi>Acts</hi> 19. 1. 5</note> of him, is more like a mad man then a Chriſtian; far worſe then to make Boy a Doctor, and then teach him to be a Scollor. <hi>Iohn</hi> bids people act themſelves, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> boaſt of <hi>Abrahams</hi> faith, and ſo all that came to him <note place="margin">
+                     <hi>Luk.</hi> 3: 8:</note> were people confeſſing &amp;c. and in the Jaylors houſe that all which heard<g ref="char:punc">▪</g> the ſame all, were Baptiſed, <note place="margin">
+                     <hi>Acts</hi> 16: 32 33.</note> but our rebellious Baby ſprinklers heed not Scriptures 3. Its Blaſphemy; ſeeing the kingdome of God be<g ref="char:EOLhyphen"/>long to Infants, children without actuall ſin, are very happy; but theſe blaſphemous Prieſts: tell the people that they are not of the heavenly kingdome, <note place="margin">
+                     <hi>Mark</hi> 10: 14</note> untill they have ſprinckled them, thus making Gods holyneſſe, and our Saviours aſsertion of no effect, they act blaſphemy, in takeing a way Goods goodneſs and ſetting up their own inventions.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>That there is no Salvation without pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fection in in this life.</hi>
+               </head>
+               <p>A Damnable Doctrine hath been a long time held forth; that people muſt ſin while they are here in this li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; grounding it upon Rom. 7. 14. 85. Gal. 5. 17. not conſidering the Saints groweth of grace; which muſt be perfected in this life or not at all, to ſhine more and more unto the perfect day, and haveing this hope of perfection here, man purifies <note place="margin">
+                     <hi>Prov:</hi> 4. 18 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>John</hi> 3: 3:</note> himſelfe: not hearking to ſuch deluſions, which have deceived thouſands to ſin willingly, as if going to hell contentedly.</p>
+               <pb n="11" facs="tcp:172468:8"/>
+               <p> Its obſerved that <hi>Paul</hi> did preach neare 36. yeares from his converſion, firſt he was a perſecutor, a no<g ref="char:EOLhyphen"/>torious ſinner, being converted, he preached the Goſpel, yet came not ſuddenly to a full perfection. <note place="margin">
+                     <hi>Acts</hi> 9. 1. 1 <hi>Tim:</hi> 1: 1</note> Act. 9. 20. he writes of 3. years Gal. 1. 18. and of 24. yeares. Gal. 2. 1, being ſtill a preacher, yet not come to abſolute perfection but preſſeth and preacheth perfection, not denying it as our ignorant people do.</p>
+               <p>In the 22. yeare of his preaching, being at <hi>Corinth</hi> he wrote to the <hi>Romans,</hi> and then complainde of ſin. <note place="margin">
+                     <hi>Acts</hi> 18: 11:</note> 
+                  <hi>Rom.</hi> 7. 17. In the 33. yere of his preaching, he wrote to the <hi>Philipians</hi> from <hi>Rome,</hi> and then ſhews, how he was growing to perfection, ſtiring up others alſo: as <note place="margin">
+                     <hi>Phil:</hi> 3: 14 15:</note> if he ſaid thus: frinds be of good cheare, the ſame God that made our Corn our graces) come out of the earth and grow, to be green and floriſh; although it hath many anoyances (many ſinns;) yet be not weary, go on; the ſame God can bring this corn (theſe graces) to a full Harveſt (to abſolute perfecti<g ref="char:EOLhyphen"/>on.)</p>
+               <p>When <hi>Paul</hi> firſt wrote unto <hi>Timothie,</hi> he tells him what he muſt do but writing the 2. time he ſhewed <note place="margin">1 <hi>Tim:</hi> 6. 11, i2:</note> himſelfe wholly obtained perfection in this life, 2. <hi>Tim</hi> 4. 7. he had fought and finiſhed: being then about the 35. yeare of his preaching: ſo although this grace, was long in growing to the Harveſt, yet it was ripe at laſt, before his death; as appears in ſending for his Cloake, books, and parchments. Vers 13.</p>
+               <p>Perfection is called from Math. 5. 4. 8. and holyneſs as God is holy. 1. <hi>Pet.</hi> 1. 16. which is a perfecting of holyneſſe. 2. Cor. 7. 1. being born of incorruptable ſeed 1. <hi>Pet.</hi> 23. that perfect man in the fullneſs of Chriſt Eph. 4. 13. ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing a forming of Chriſt in rhem, Gal.
+<pb n="12" facs="tcp:172468:9"/> 4. 19. to walk as he walked, 1 <hi>Ioh.</hi> 2. 6. all which is by a growth in grace, 2 <hi>Pet.</hi> 3. 18. attained by d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gree<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> where in the buds and ſeeds thereof increaſe as, <hi>Pet.</hi> 1 5 beginning as a grain of Muſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd feed <hi>Luk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 13. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſo as holyneſſe increaſeth, ſin decreaſeth; ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grows righteous ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll <hi>Rev</hi> 22. 11. above the world o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin, untill all be converted and caſt forth; and this ful<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perfection, is that redemption of the body, wholly from ſin which the Saints waited for; the fullnes o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 8. 23</note> Adoption, at wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch time the Lord Omnipotent regin<g ref="char:EOLhyphen"/>eth indeed: and this height of Glory was that ſpok<g ref="char:EOLhyphen"/>en <note place="margin">
+                     <hi>Rev.</hi> 19. 6.</note> of 2. <hi>Tim.</hi> 4 7.</p>
+               <p>Who attaines this perfection ſinns not, <hi>Iohn.</hi> 3. 6 8. 9 but although <hi>Paul</hi> had it ſo long before death, yet it ſeems the Saint thee! had it the laſt hour, but both <note place="margin">
+                     <hi>Luke</hi> 23. 43</note> in this life.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>That a forcing Civill power makes no chriſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>an.</hi>
+               </head>
+               <p>IN the former Engliſh miniſtrations; each preſent power &amp; Clergy thought themſelves in the onely way of Chriſt, and to be infall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble Diſciples, as in Popery, Prela<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and Pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tery &amp;c. and ſo deſire to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce all other un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o their opinions; like that curſ<g ref="char:EOLhyphen"/>ed <note place="margin">
+                     <hi>Mat</hi> 23 15 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>King</hi> 21. 3: <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cts</hi> 6. 11. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</note> people, to ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e one proſelitye; but who did not yeel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, muſt ſuffer as <hi>Naboth and Stephen</hi> or elſe be ſmit<g ref="char:EOLhyphen"/>ten with the tongue, as <hi>Ier.</hi> 18. 18. yet all was but a forming out ſide as Hypocrits, Satan ſitting, and commanding to be worſhiped as God, who muſt bee conſumed<g ref="char:punc">▪</g> holds not long; 2. <hi>Theſſ</hi> 2. 4. 8. although for a time by the Iayls, Fines, and cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lors ſhop men were compelld to be conformable un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o human orders, all was but as a chaining up of Bears, Lyons, Wolves,
+<pb n="13" facs="tcp:172468:9"/> Lambs, &amp;c. a Beare, a wicked man, will be ſo ſtill, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd a Lam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, a good man, holds the ſame; yet the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haine of a Law, tying all up, makes every one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eem holy, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mb-like; but now in this time of li<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertie, is ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what the nationall church was, being <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a great company of wild beaſts chained up, ſo that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey could not hurt one another.</p>
+               <p>The ſtate of moſt people, were the Scripture letter hath been held forth, is but as civiliz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar unlike pure chriſtians; haveing forms of Rel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gion, which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at up the power the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eof; but when the little ſtone, <note place="margin">
+                     <hi>Dan.</hi> 2. 34, 35.</note> breakes this fourth Romiſh Monarchie, making <hi>Ba<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> a confuſion indeed (as now God, is doing it by his ſpirituall Aſſy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia, the quakers,) even then ſhall the firſt Monarchie appeare in its exelencie under Ie<g ref="char:EOLhyphen"/>ſus Chriſt; yet not to be done with materiall weapons <note place="margin">
+                     <hi>Zach.</hi> 4. 6</note> as ſom think, but by his ſpirit, wherein Chriſt the eternall word ſhall be the ſword to cut down; even th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpirituall Cyrus to execute all his offices in glory <note place="margin">
+                     <hi>Iſa.</hi> 45. 1, 2</note> amongſt his Saints.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. <hi>That the Epiſtles were ſent to ſaints onely; not to the world.</hi>
+               </head>
+               <p>THe Epiſtles are part of thoſe ſcriptures contain<g ref="char:EOLhyphen"/>ing a declaration of Gods word. Luk. 1. 1. Act. 20, 27 1. Cor. 15.7. 1 Iohn 1. 3. which book may come to loſſe; but the word in ſelfe is from the beginning, <note place="margin">
+                     <hi>Joh:</hi> 1. i. 14</note> being made fleſh, by which man liveth Math. 4. 4 and ſo did <hi>Paul. Gal</hi> 2. 20. a dividing word. Heb. 4. 12 which ſhall not return void <hi>Iſa.</hi> 55. 11 haveing its abiding forever <hi>Pet</hi> 1. 23. but the Letter, the falſe Prophets <note place="margin">1 <hi>Sam.</hi> 3. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Jer.</hi> 5. 13 14.</note> had as many have it now, yet God threatned to de<g ref="char:EOLhyphen"/>ſtroy them.</p>
+               <pb n="14" facs="tcp:172468:10"/>
+               <p> The Epiſtles were not written to Pariſh congr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ga<g ref="char:EOLhyphen"/>tions, but unto churches of Saints, gathered out of the world, as from the beginning ſhew. <hi>Rom.</hi> 1. 7. <hi>Eph.</hi> 1. 1 &amp; who ſomtimes had their churches in houſes, as, <hi>Rom.</hi> 16. 5. <hi>Co.</hi> 4. 15 <hi>Phil.</hi> 2. and the letter of ſcrip<g ref="char:EOLhyphen"/>ture is as ſeed, to be uſed by a faithfull ſeedman on good ground, and ſo ir becomes an effectall growing word; but where it comes to a dry barren heart, it is as dry ſeed, or a dead letter; and ſelling this letter for the word, holding forth Scripture promiſes to wicked wratches, as the Hirelings prieſts do, is moſt abominable.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX <hi>Than Univerſity degrees are contrary to the Goſ<g ref="char:EOLhyphen"/>pel.</hi>
+               </head>
+               <p>SUch degrees by acts and commencements, are human inventions; wherein men by learning one of another, by going to ſchool, and paſſing then<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, ſell it in the countrey for Divinity: holding the po<g ref="char:EOLhyphen"/>piſh cuſtome, to ſuffer none to be a parriſh Prieſt, except he firſt buy human learning, and recive hu<g ref="char:EOLhyphen"/>man ordination; but after that they were called Di<g ref="char:EOLhyphen"/>vine, s although never ſo filthy as <hi>Baals</hi> ſervants were <note place="margin">
+                     <hi>Kings</hi> 18 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</note> termed Prophets: whereas he is a Divine, that is both called and taught of God, for the Goſpel-work.</p>
+               <p>Divinity is holineſſe, and this ſtolen title they have gotten; as Batchlor of holineſſe, Doctor, &amp;c. which degrees they take one of another at their arts and commencments befooling the people, as if they <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: 23: 30.</note> were made holy of God; ſtealing the title of holy<g ref="char:EOLhyphen"/>neſs from poore Saints, give it themſelves, ſo take<g ref="char:EOLhyphen"/>ing <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on</hi> 5: 44: <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on</hi> 12: 43</note> honour one of a nother and loveing the praiie of
+<pb n="15" facs="tcp:172468:10"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en, but God is a gainſt ſuch a Miniſtry.</p>
+               <p>So alſo reverend, once uſed to God; they aſſume <note place="margin">
+                     <hi>Pſa:</hi> 111: 9</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o themſelves, which the Apoſtles never did; as to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy reverend brother <hi>Paul</hi> &amp;c. yea acting as <hi>Ieroboam,</hi> to make Prieſts of thoſe loweſt an Gods eſteem 1. <hi>Kin.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 13.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X <hi>That ſuch are no Goſple Miniſters which have no re<g ref="char:EOLhyphen"/>velation.</hi>
+               </head>
+               <p>THe trade of the Antichriſtian miniſtry, was to be a ſcoolboy; 2. a Univerſity man 3. a man in or<g ref="char:EOLhyphen"/>ders and as ſuch had naturall gifts,, more or leſſe, ſo they were improved of; accounting where this lear<g ref="char:EOLhyphen"/>ning was, that there muſt be the guift of grace, but who had no human learning, ſuch could be no miniſt<g ref="char:EOLhyphen"/>ers; as if tying the gift of God under the girdle of mens devices: thus one man taught another and ordained another; teaching that trade to preach by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear-ſay.</p>
+               <p>Men going forth to declare the letter, and writings of others, are no Goſple miniſters; but ſuch as are <note place="margin">1 <hi>Cor:</hi> 2: i: 6.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alled of God; to ſpeak his wiſdome in a miſtery, in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hom he reveals Jeſus Chriſt to preach in power, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom the breathings of Gods ſpirit within; and ſuch <note place="margin">
+                     <hi>Gal:</hi> 1: 16.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re the teachers ſent from the Lord haveing an im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ediate call, not of men but of God <hi>Gal.</hi> 1. 1. for no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an knows God, as to be a miniſter by hereſay but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s things are revealed <hi>Math.</hi> 11. 25. neither can they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>now the father, but by revelation from the ſon <hi>Rev.</hi> 27.</p>
+               <p>God works by the ſame ſpirit now as formerly, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath promiſed in the latter dayes, more abundantly <note place="margin">
+                     <hi>Joel</hi> 2, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Acts</hi> 2: 17</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereof whereby he reveals, and makes known him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="16" facs="tcp:172468:11"/> in man; but ſuch as love not ſuch a revelation ſpiritually, are no Miniſters of Chriſt: they trade onely in the letter as the Scribes, Ieſuites, and Anti<g ref="char:EOLhyphen"/>chriſtian Miniſtry have done, preaching what they have leraned by heare-ſy.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI <hi>That no light without can avatle us, except there be a leght within.</hi>
+               </head>
+               <p>THe light of the body is the eye, but if the eye <note place="margin">
+                     <hi>Luke</hi> ii. 34.</note> have no light within it, all the light of the ſun can do no good without it: and if God puts not firſt a light into the creature, how can that creature ſee any thing of God? therefore know that God enlight<g ref="char:EOLhyphen"/>ens within firſt, and then ſhews himſelfe to that light.</p>
+               <p>The Gentiles knew not the Law, yet had a light <note place="margin">
+                     <hi>Rom.</hi> 2. 14, 15.</note> within: and the outward teaching is Judged and diſ<g ref="char:EOLhyphen"/>cerned, by this inward light: as a blind man, can<g ref="char:EOLhyphen"/>not ſee a candle lighted before him, becauſe he hath no light within his eye, ſo one blind in ſin <hi>Iohn</hi> 9. 41. cannot underſtand the things of God, but are fooliſh<g ref="char:EOLhyphen"/>neſſe unto him; whileſt he that hath a light within can in a meſure aprehend the things of God, held forth.</p>
+               <p>Chriſt the Saints husband, tooke of their human nature, and loveingly imparts to them of his Divine <note place="margin">
+                     <hi>John</hi> 1. 9.</note> nature, being a light ſhining inro all; but wicked men darken it by ſin, giving way to the fleſh o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> human nature, not ſuffering Chriſt in his Divine nature to <note place="margin">
+                     <hi>Joh.</hi> 3. 19, 30.</note> rule, and ſo work their own condemnation; where<g ref="char:EOLhyphen"/>by that which ſhould be the ſavour of life unto life, be<g ref="char:EOLhyphen"/>comes the ſavour of death unto death. <note place="margin">2 <hi>Cor:</hi> 2. i5.</note>
+               </p>
+               <pb n="17" facs="tcp:172468:11"/>
+               <p> God is light, 1. <hi>Iohn</hi> 1. 5. in whom the Saints are, 1 <hi>Theſ.</hi> 1. 1. which light in them 2. <hi>Cor.</hi> 13. 5. <hi>Gal.</hi> 4. 16. and his light ſhines in our human nature, as in a dark place to enlighten it, 2. <hi>Pet.</hi> 1. 16. makeing it as the ſhining of a Candle, <hi>Luk.</hi> 11. 36. and ſo the Saints, walk in this light, and are known in the ſame; but the formaliſts know each other by a fleſhly form <note place="margin">2 <hi>Cor.</hi> 5. i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> which the former Diſciples would not do.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII <hi>A ſum of new diſcoveries, ſince time of liber<g ref="char:EOLhyphen"/>tie.</hi>
+               </head>
+               <head>The ſeverall Authors, have wrote hereof, as Parkers Exa<g ref="char:EOLhyphen"/>men: Britens body of divinity: Colliers works with o<g ref="char:EOLhyphen"/>thers</head>
+               <p n="1">1 Originall ſin is a meere deluſion,</p>
+               <p n="2">2 Univerſall redemption is now underſtood, which takes off Originall ſin: <hi>Even ſo,</hi> is as the Ballance Beam; and that <hi>all,</hi> which was in the ſtate <note place="margin">
+                     <hi>Rom.</hi> 5. 18</note> of condemnation by <hi>Adams</hi> ſin, the ſame <hi>all</hi> had the free gift to Juſtification of life, in the ſtate of Jeſus Chriſt, for the words are equivalent; none were left in the firſt tranſgreſſion, but all redeemed, (or ran<g ref="char:EOLhyphen"/>ſomed) <note place="margin">
+                     <hi>Matth.</hi> 19 14.</note> out of the ſame; and ſo our infants are of Gods kingdom.</p>
+               <p n="3">3 Human nature, was that in <hi>Adam</hi> which hark<g ref="char:EOLhyphen"/>ned to the Serpent; and it is the ſame in us, that firſt receives ſin: and this is a diſtinct thing from the di<g ref="char:EOLhyphen"/>vine nature: and cauſeth wrath: the other godly<g ref="char:EOLhyphen"/>neſſe. <note place="margin">
+                     <hi>Eph:</hi> 2. 3. 2 <hi>Pet.</hi> 1. 4:</note>
+               </p>
+               <p n="4">4 Free-grace is offered all, after they have actuallyy ſinned, ſee <hi>Ezek.</hi> 33. 11. <hi>Rev.</hi> 3. 20, 2 <hi>Pet.</hi> 29,</p>
+               <p n="5">
+                  <pb n="18" facs="tcp:172468:12"/> 5 Free-will, man muſt have it in a meaſure to uſe his abilities; or elſe this free grace can do him no more, good then a feaſt at <hi>London</hi> can do a man good whileſt he is chained up at <hi>Yorke.</hi>
+               </p>
+               <p n="6">6 Election was confuſedly wrapt up together, which is now ſeen, to be either Univerſall or generall, ſpeciall, or particular, and alſo of perſons, places, and things: ſee <hi>Brittens</hi> works of theſe at the Angel in <hi>Cornhill.</hi>
+               </p>
+               <p n="7">7 Perfection muſt be in this life.</p>
+               <p n="8">8 Eating blood, a heathen cuſtom, never allowed before the Law, under the Law, nor in the Goſpel, <note place="margin">
+                     <hi>Gen</hi> 9: 4: <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ev.</hi> 7. 26. <hi>Acts</hi> 15. 29 <hi>&amp;</hi> 21. 25.</note> but forbidden.</p>
+               <p n="9">9 Romiſh Reliques are much ſeen and down; yet ſome remaines to <hi>Englands</hi> ſorrow; as Tythes, &amp;c.</p>
+               <p n="10">10 Stepelehouſes, are no Churches</p>
+               <p n="11">11 Gods anoynted, are not Civilized princes; but his Saints, having that unction. 1. <hi>Iohn</hi> 2. 20.</p>
+               <p n="12">12. Thanks is not to be uſed unto man, but onely to God, except as <hi>Paul</hi> uſed it to ſaints, <hi>Rom.</hi> 16. 3, 4. Thanks is to bleſs one another; and curſed <hi>Joab,</hi> or flat<g ref="char:EOLhyphen"/>tering <note place="margin">2 <hi>Sam.</hi> 3. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9. <hi>with</hi> 2 <hi>Sam</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4. 22: <hi>Acts</hi> 21. 3: <hi>Mat:</hi> 6: 37: <hi>Mat:</hi> 17: 25 <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oh:</hi> 21: 5:</note> 
+                  <hi>Tertullus</hi> warrant not us to uſe it; neither do we ever read elſe in all the ſcriptures that one man did thank another. Conſider this ye ranting beaſts which ſit, <hi>I drink to you, I thank you.</hi>
+               </p>
+               <p n="13">13 <hi>Yea</hi> and <hi>Nay, Yes</hi> and <hi>No,</hi> in faithful ſpeaking is the ſcripture-language, which muſt be among all ſaints.</p>
+               <p n="14">14 <hi>Thee, thou, thy,</hi> and <hi>thine</hi> is the right ſcripture-language, uſed to God, and among all ſaints; but you and <hi>yours</hi> is plural, which uſed to a ſingle perſon is a lye: ſo it is not you, <hi>Lady,</hi> but thee, <hi>Lady,</hi> 2 <hi>Joh:</hi> 5:</p>
+               <p n="15">15 Hireling Teachers are not true Miniſterr.</p>
+               <p n="16">16 The ſtrait Gate is much more ſeen by Saints, how it will not admit them to carry their pride in Ap<g ref="char:EOLhyphen"/>parel,
+<pb n="19" facs="tcp:172468:12"/> and glutting the body through ſuch a paſſage, but all ſin muſt down.</p>
+               <p n="17">17 Light within is now known to ſome.</p>
+               <p n="18">18 Forms are ſeen, as not uniting; but to uſe as God convinceth, ſeeing the oneneſs is made perfect <note place="margin">
+                     <hi>Joh:</hi> 17: 2 2 <hi>Cor:</hi> 5</note> by Chriſt in the Saints, and they are not to know each other after the fleſh.</p>
+               <p n="19">19 Making Chriſtians is not by a humane power.</p>
+               <p n="20">20 Scripture-promiſes are now ſeen to belong unto the ſaints, and not unto carnal wretched people, as formerly the Popiſh Miniſtry did apply them for ſelf-ends.</p>
+               <p n="21">21 Infant-baptiſm is found a meer deluſion.</p>
+               <p n="2">2 The fifth Monarchy is ſeen to be ſweetly begun under Jeſus Chriſt in his ſpiritual reign, (but not a<g ref="char:EOLhyphen"/>cted by a material ſword) God by the power of his ſpirit in his ſaints is daſhing Babylon in pieces; the Popiſh pariſh-Miniſtry is going down, and Chriſts pure <note place="margin">
+                     <hi>Pſal.</hi> 13 8, 9. <hi>Zech.</hi> 13. <hi>Mic.</hi> 4: 1. <hi>Pſal.</hi> 1 10 <hi>Rev.</hi> 11: i</note> Miniſtry ſetting up the Fountain for uncleanneſs be<g ref="char:EOLhyphen"/>ing opened: The Lord ſetting up his Mountain (or Church) above theſe falſe churches, and making peo<g ref="char:EOLhyphen"/>ple willing in the day of his power, from the womb of this ſpiritual Morning, ſhewing the kingdom to be his own, and not ſuffering a cruel clergy to tyraunize over his people.</p>
+               <p n="23">23 Tythes are ſeen to be from Anr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chriſt.</p>
+               <p n="24">24 Infant-memberſhip; that Infants are of Chriſts church, is well known to be ſo, and needs not the Prieſts help to do it.</p>
+               <p n="25">25 Chriſt in the fleſh is not only meant of his own fleſh, for that a reprobate will confeſs; but it is now further to be underſtood to be ſpoken of the ſaints fleſh, 1 <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> 4: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: as to be formed in them, <hi>Gal:</hi> 4. 19:</p>
+               <p n="26">26 Spirit, Soul, and Body, in men are known to be hree diſtinct parts. For firſt, Man begets nothing im<g ref="char:EOLhyphen"/>mortal,
+<pb facs="tcp:172468:13"/> yet he begets ſouls, <hi>Gen.</hi> 46: 26: <hi>Exod:</hi> 1: 5: Se<g ref="char:EOLhyphen"/>condly, We never read the ſoul return'd to God, but <note place="margin">
+                     <hi>Theſ.</hi> 5. 3. <hi>Heb.</hi> 4. 12.</note> of the ſpirit, <hi>Eccleſ:</hi> 12: 7: <hi>Hab:</hi> 23: 46. <hi>Pſalm.</hi> 31: 5: <hi>Act:</hi> 7: 59: Thirdly, The diviſion of ſoul and ſpirit made in Scriptures:</p>
+               <p n="27">27 Univerſity Degrees, appropriating ſtollenti<g ref="char:EOLhyphen"/>tles, are againſt the Goſpel practiſe:</p>
+               <p n="28">28 Myſtical <hi>Babylon</hi> is found to be in all grown people, and all people to be in that fleſhly wiſdom un<g ref="char:EOLhyphen"/>til they are truly ſanctified:</p>
+               <p n="29">29 Cards, Dice, <hi>&amp;c.</hi> are all diſcovered to be from the devil, who hath taught people to counterfeit that great deciding Ordinance, called a Lot, <hi>Numb.</hi> 26. 55. <hi>Iona</hi> 1. 7. <hi>Acts</hi> 1. 26.</p>
+               <p n="30">30 Playes and Players, with all ſuch feigned and diſſembled actions or perſons, are diſown'd in the light, being from Satan, men muſt give account for e<g ref="char:EOLhyphen"/>very <note place="margin">
+                     <hi>Mat</hi> 12. 36</note> idle word ſo uſed, and <hi>Englands</hi> Governors muſt anſwer before the Lord for ſuffering of them.</p>
+               <p n="31">31 Ballads, Fictions, Tale-Books, and idle Songs, are all to be accounted for unto God, both by the Ru<g ref="char:EOLhyphen"/>lers which ſuffer this filth, and by all ſuch which act therein, its no ſaints practice. <note place="margin">
+                     <hi>Eph.</hi> 5. 3, 4.</note>
+               </p>
+               <p n="32">32 Preaching by hear-ſay, a deluſion.</p>
+               <p n="33">33 Circumciſion is ſtill to the Jews, ſee before of Infant baptiſm.</p>
+               <p n="34">34 New covenant-work is now ſeen to be begun, and great appearances of Gods leading forth his peo<g ref="char:EOLhyphen"/>ple from the ſtreams of ignorance, to hear the great <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er.</hi> 31. 33: <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſa.</hi> 27. 12, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</note> Trumpet blown, making many partakers of that un<g ref="char:EOLhyphen"/>ction or ſpiritual teaching, 1 <hi>John</hi> 2. 27.</p>
+               <p n="35">35 Goſpel-Ordinances are now ſeen by ſaints what they are; and how they have been a long time coun<g ref="char:EOLhyphen"/>terfeited in the Romiſh Church by a hireling mini<g ref="char:EOLhyphen"/>ſtry.</p>
+               <p n="36">
+                  <pb n="21" facs="tcp:172468:13"/> 36 The New commandment is obſerved among ſaints, that none are purely in Chriſt but ſuch as have <note place="margin">
+                     <hi>Joh.</hi> 13 34.</note> that Goſpel-love without any mixture of ſiniſter ends.</p>
+               <p n="37">37 Uniting of ſaints cannot be done by any out<g ref="char:EOLhyphen"/>ward <note place="margin">1 <hi>Cor.</hi> 12, 13.</note> form, but by being imbodyed into one ſpirit.</p>
+               <p n="38">38 Faſting for the abating fleſhly deſires, and pou<g ref="char:EOLhyphen"/>ring forth ſervices ſpiritual unto God, is now ſeen a<g ref="char:EOLhyphen"/>mong ſaints to be very effectual: for ſome ſins go not forrh, but by prayer and faſting, <hi>Matth:</hi> 17: 21:</p>
+               <p n="29">29 Shaking, or giving hands in fellowſhip or love, hath long time been uſed in the <hi>Romiſh</hi> cuſtom by diſ<g ref="char:EOLhyphen"/>ſimulation, and is not to be allowed, but in ſincerity <note place="margin">
+                     <hi>Gal.</hi> 2 9.</note> amongſt ſaints in way of true ſociety:</p>
+               <p n="40">40 The ſabbath or holy reſt, in obſerving a ſeventh part of our time in reſting from labour, that ſo one day in ſeven there might be no mixture in the ſervice to God and the world, is ſeen to belong ſtill unto ſaints; as, firſt, from Gods example: Secondly, from <note place="margin">
+                     <hi>Gen.</hi> 2. 3. <hi>Exod.</hi> 20. 8. <hi>Iſaiah</hi> 58: 13.</note> that precept of the moral Law. Thirdly, from the bleſſing of ſuch as were not Jews, which kept the ſab<g ref="char:EOLhyphen"/>bath, Iſ. 56. 3, &amp;c: 4 From the continuance of it, which ſhould be from one ſabbath to another for all fleſh, Iſa. 66. 23. Fifthly, it was never abrogated by Chriſt, but only works of neceſſity admitted, <hi>Luke</hi> 13. i5, 16. Laſtly, If God gave forth his commandments by his ſon, they that break them, and teach men ſo, ſhall be called the leaſt in the kingdom of heaven, <hi>Matth.</hi> 5: 18, i9.</p>
+               <p>Laws are made in <hi>England,</hi> but not executed: men in the country take Offices by turns, then beaſtlike of<g ref="char:EOLhyphen"/>ficers ſuffer beaſt-like abuſes, by drunkenneſs, ſwear<g ref="char:EOLhyphen"/>ing, ſabbath-breaking, <hi>&amp;c.</hi> but if the Government would pleaſe to ſettle in each pariſh a godly man to overſee theſe evils by way of an Officer authorized,
+<pb n="22" facs="tcp:172468:14"/> it might much conduce to ſuppreſſing of vice, and compoſing petty-differences: ſee to it O ye Rulers of this people.</p>
+               <p>Many more diſcoveries appear in theſe bleſſed times of liberty, which the wicked party ſtrive to darken and mock at, like the fooliſh Philoſophers at <hi>Athens;</hi> 
+                  <note place="margin">
+                     <hi>Acts</hi> 17. i8, 32.</note> but God ſtil brings his work forward.</p>
+               <p>When God ſhewed me the ſilthineſs of the pariſh congregations, I durſt no longer ſtay as a member a<g ref="char:EOLhyphen"/>mong them, and ſearching the ſeveral forms, I found the Quakers moſt pure in doctrine, but their conver<g ref="char:EOLhyphen"/>ſations nor principles I know not: I humbly wiſh all profeſſions to live unto the height and purity of reli<g ref="char:EOLhyphen"/>gion; for the beauty of a chriſtian is a holy life, being unſpoted of the world. <note place="margin">
+                     <hi>James</hi> 1. 27.</note>
+               </p>
+               <p>I go on ſeeking, and wait with patience, hoping God will ſhortly accompliſh his covenant-work, Jer. 31. 33: when ſaints ſhall ſhew that pure charity, i <hi>Cor:</hi> 3: i, <hi>&amp;c:</hi> and be well known by their maſters badge, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh:</hi> i3: 35: who will defend them from the wicked one; 1 <hi>Joh.</hi> 4. 18. and ſo the primitive purity of ſaints being <note place="margin">
+                     <hi>Mark</hi> 16. 17, 18.</note> reſtored, their ſignes of faith shall follow.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172468:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
